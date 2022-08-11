@@ -13,7 +13,7 @@ En speltyp beskriver ett spel som finns tillgängligt för matchen. Speltyperna 
 
 - Du behöver inte skapa en databas för ändamålet.
 - Du behöver inte tillverka alla api:er utan välj det du vill.
-- Du behöver inget GUI.
+- Du behöver inte ha något GUI.
 - Om du gör någon kod, ladda upp det på något publik Git-space.
 - Om du inte skulle hinna med att göra uppgiften så skulle vi vilja hör hur du har tänkte lösa det.
 
