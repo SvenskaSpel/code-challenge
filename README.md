@@ -40,11 +40,6 @@ Oddssättare
 - Som oddssättare vill jag kunna uppdatera odds på matchens speltyper.
 
 
-
-
-
-
-
 ---
 
 <footer>
